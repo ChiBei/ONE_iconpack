@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#fffcf2</color>
+    <color name="colorPrimaryDark">#fffcf2</color>
+    <color name="colorAccent">#252729</color>
+
+    <color name="darkColorPrimary">#121212</color>
+    <color name="darkColorPrimaryDark">#121212</color>
+    <color name="darkColorAccent">#c4c0b5</color>
+
+    <!-- Navigation Bar    fffcf2 + 252729  000000 + c4c0b5
+    * Must be solid color, no alpha -->
+    <color name="navigationBar">#121212</color>
+    <color name="navigationBarDark">#121212</color>
+
+    <!-- Splash Screen -->
+    <color name="splashColor">#252729</color>
+
+    <!-- Navigation View -->
+    <color name="navigationViewTitle">#FFFFFF</color>
+    <color name="navigationViewTitleBack">#33000000</color>
+
+    <color name="navigationViewText">#505A64</color>
+    <color name="navigationViewTextDark">#DDFFFFFF</color>
+    <color name="navigationViewTextSelected">#0082B4</color>
+    <color name="navigationViewTextSelectedDark">#0082B4</color>
+    <color name="navigationViewSelectedBackground">#00000000</color>
+    <color name="navigationViewSelectedBackgroundDark">#00000000</color>
+
+    <!-- Swipe Refresh -->
+    <color name="swipeRefresh">#252729</color>
+
+    <!-- Toolbar -->
+    <color name="toolbarIcon">#252729</color>
+    <color name="toolbarIconDark">#FFFFFFFF</color>
+
+    <!-- Tab -->
+    <color name="tabIndicator">#252729</color>
+    <color name="tabIndicatorDark">#c4c0b5</color>
+    <color name="tabText">#ff333333</color>
+    <color name="tabTextDark">#44FFFFFF</color>
+    <color name="tabTextSelected">#252729</color>
+    <color name="tabTextSelectedDark">#c4c0b5</color>
+
+    <!-- Card -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardBackgroundDark">#252729</color>
+
+    <!-- Ripple -->
+    <color name="rippleColor">#55000000</color>
+    <color name="rippleColorDark">#55FFFFFF</color>
+    <color name="rippleAccent">#3323BEA5</color>
+    <color name="rippleAccentDark">#3323BEA5</color>
+
+    <!-- Attributes -->
+    <color name="mainBackground">#FAFAFA</color>
+    <color name="mainBackgroundDark">#000000</color>
+    <color name="primaryText">#484848</color>
+    <color name="primaryTextDark">#EEFFFFFF</color>
+    <color name="secondaryText">#777777</color>
+    <color name="secondaryTextDark">#99FFFFFF</color>
+    <color name="dividerList">#EEEEEE</color>
+    <color name="dividerListDark">#22FFFFFF</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+
+
+    <category title="更新第三方"/>
+    <item drawable="adm"/>
+    <item drawable="ai_shui"/>
+    <item drawable="airdroid"/>
+    <item drawable="baicizhan"/>
+    <item drawable="benghuai_3"/>
+    <item drawable="chaoji_jisuanqi"/>
+    <item drawable="dandu"/>
+    <item drawable="douban"/>
+    <item drawable="douyin"/>
+    <item drawable="evernote"/>
+    <item drawable="facebook"/>
+    <item drawable="fgo"/>
+    <item drawable="flamingo"/>
+    <item drawable="gmail"/>
+    <item drawable="google_shezhi"/>
+    <item drawable="google_xinwen"/>
+    <item drawable="huangshi_zhanzheng_2"/>
+    <item drawable="ibeebo"/>
+    <item drawable="jiangduoduo_caipiao"/>
+    <item drawable="jingdong"/>
+    <item drawable="jingdong_qianbao"/>
+    <item drawable="kuwo_yinyue_2"/>
+    <item drawable="lvse_shouhu"/>
+    <item drawable="taiji"/>
+    <item drawable="me_time"/>
+    <item drawable="meituan"/>
+    <item drawable="microsoft_office_excel"/>
+    <item drawable="microsoft_office_officehub"/>
+    <item drawable="microsoft_office_powerpoint"/>
+    <item drawable="microsoft_office_word"/>
+    <item drawable="minsheng_yinghang_shouji_yinghang"/>
+    <item drawable="miui_beifen"/>
+    <item drawable="miui_zhifu"/>
+    <item drawable="qq_youxiang"/>
+    <item drawable="re_wenjian_guanliqi"/>
+    <item drawable="shenme_zhidemai"/>
+    <item drawable="snapseed"/>
+    <item drawable="uc_liulanqi"/>
+    <item drawable="wangyi_yun_ketang"/>
+    <item drawable="weibo_siciyuan"/>
+    <item drawable="weibo_weico_2"/>
+    <item drawable="weixin_dushu"/>
+    <item drawable="youchu_yinghang"/>
+    <item drawable="youdao_cidian"/>
+    <item drawable="youdao_fanyiguan"/>
+    <item drawable="youdao_kouyu_dashi"/>
+    <item drawable="youku"/>
+    <item drawable="zhangshang_shenghuo"/>
+    <item drawable="zhaoshang_yinghang"/>
+    <item drawable="zhongyi_kaoyan_lan_jiyin"/>
+    <item drawable="zhudou_yuer"/>
+
+
+
+
+
+
+
+
+
+
+    <category title="A"/>
+    <item drawable="acdisplay"/>
+    <item drawable="adm_pro"/>
+    <item drawable="aikan_yuedu"/>
+    <item drawable="aiqiyi"/>
+    <item drawable="airbnb"/>
+    <item drawable="aiyuke_yumaoqiu"/>
+    <item drawable="ali_tongxin"/>
+    <!--<item drawable="android_camera"/>-->
+    <!--<item drawable="android_deskclock"/>-->
+    <!--<item drawable="android_dianhua"/>-->
+    <!--<item drawable="android_dk_simple"/>-->
+    <!--<item drawable="android_downloads"/>-->
+    <!--<item drawable="android_email"/>-->
+    <!--<item drawable="android_flashlight"/>-->
+    <!--<item drawable="android_lianxiren"/>-->
+    <!--<item drawable="android_phone"/>-->
+    <!--<item drawable="android_protips"/>-->
+    <!--<item drawable="android_settings"/>-->
+    <!--<item drawable="android_soundrecorder"/>-->
+    <!--<item drawable="android_system_plus"/>-->
+    <!--<item drawable="android_thememanager"/>-->
+    <!--<item drawable="android_updater"/>-->
+    <!--<item drawable="android_voicedialer"/>-->
+    <!--<item drawable="android_wifi"/>-->
+    <item drawable="anhui_zhangshang_10000"/>
+    <item drawable="anquan_yu"/>
+    <item drawable="aosp_movies"/>
+    <item drawable="apkpure"/>
+    <item drawable="apk_bianjiqi"/>
+    <item drawable="apk_editor"/>
+    <item drawable="artflow"/>
+    <item drawable="autodesk_sketchbook"/>
+    <item drawable="a_8_tiyu_zhibo"/>
+    <item drawable="a_to_z_xiazaiqi"/>
+
+    <item drawable="ai_pinche"/>
+
+
+
+    <category title="B"/>
+    <item drawable="baidu_ditu_meizu"/>
+    <item drawable="baidu_shurufa"/>
+    <item drawable="baimiao"/>
+    <item drawable="baoke_tanxian"/>
+    <item drawable="baoming_chakanqi"/>
+    <item drawable="bashi_guanjia"/>
+    <item drawable="bilibili"/>
+    <item drawable="bili_donghua_xiazai"/>
+    <item drawable="bingxiang"/>
+    <item drawable="biquge"/>
+    <item drawable="black_cam_pro"/>
+    <item drawable="bmap"/>
+    <item drawable="bsgmod_camera"/>
+    <item drawable="buluo_chongtu"/>
+    <item drawable="b_612"/>
+
+        <item drawable="boomerang"/>
+    <item drawable="baidu_waimai"/>
+    <item drawable="baidu_wangpan"/>
+    <item drawable="baidu_yinyue"/>
+
+    <category title="C"/>
+    <item drawable="caipudaquan"/>
+    <item drawable="cf_lumen"/>
+    <item drawable="chacha_google_anzhuangqi"/>
+    <item drawable="chaoji_dicheng_zhiguang"/>
+    <item drawable="chaoxi"/>
+    <item drawable="chao_zipai"/>
+    <item drawable="chezhu_wuyou"/>
+    <item drawable="che_laile"/>
+    <item drawable="chigua_xiaoshiping"/>
+    <item drawable="chubao_dianhua"/>
+    <item drawable="chuye"/>
+    <item drawable="crsafari"/>
+    <item drawable="cuimian_dashi"/>
+    <item drawable="cuto"/>
+    <item drawable="cyanogen_audio_fx"/>
+
+    <item drawable="calm"/>
+
+    <item drawable="caocao_zhuanche"/>
+    <item drawable="chrome"/>
+    <item drawable="chuanyue_huoxian"/>
+
+
+    <category title="D"/>
+    <item drawable="daily_pic"/>
+    <item drawable="dangdang"/>
+    <item drawable="daohanglan_kaiguan"/>
+    <item drawable="dedao"/>
+    <item drawable="deemo"/>
+    <item drawable="didi_chuxing"/>
+    <item drawable="dingdingpai"/>
+    <item drawable="dir"/>
+    <item drawable="ditietong"/>
+    <item drawable="douyu_zhibo"/>
+    <item drawable="duolingo"/>
+    <item drawable="dynamix"/>
+    <item drawable="diwu_renge"/>
+    <item drawable="dudu_ribao"/>
+    <item drawable="douding_shufang"/>
+
+    <category title="E"/>
+    <item drawable="ele_me"/>
+
+
+    <category title="F"/>
+
+    <item drawable="fangpian_shouji"/>
+    <item drawable="fa_tool"/>
+    <item drawable="faucet"/>
+    <item drawable="fengniao_zhongbao"/>
+    <item drawable="finger"/>
+    <item drawable="flash_air"/>
+    <item drawable="flippy_knife"/>
+    <item drawable="feizhu"/>
+    <item drawable="forest"/>
+
+
+    <category title="G"/>
+    <item drawable="google_cam5"/>
+    <item drawable="google_camera_san"/>
+    <item drawable="google_fanyi"/>
+    <item drawable="google_gcamd"/>
+    <item drawable="google_gcmod5"/>
+    <item drawable="google_kongjian"/>
+    <item drawable="google_pinyin_shurufa"/>
+    <item drawable="google_pixel_xiangji"/>
+    <item drawable="google_zhaopian"/>
+    <item drawable="google_zhuyin_shurufa"/>
+    <item drawable="guanggao_guolv_dashi"/>
+    <item drawable="guanggao_kuaizou"/>
+    <item drawable="guanzhi"/>
+    <item drawable="gugu_manhua"/>
+    <item drawable="gushihui"/>
+
+    <category title="H"/>
+
+        <item drawable="habit_rpg"/>
+        <item drawable="haibao_gongchang"/>
+        <item drawable="haohaozhu"/>
+        <item drawable="huaerjie_jianwen"/>
+        <item drawable="huangshi_zhanzheng"/>
+        <item drawable="huangyou_xiangji"/>
+        <item drawable="huayitong"/>
+
+    <item drawable="heping_jingying"/>
+    <item drawable="huatu_jiaoyu"/>
+    <item drawable="hujiang_wangxiao"/>
+
+    <item drawable="huaban"/>
+    <item drawable="huangjing_shike"/>
+
+    <category title="I"/>
+    <item drawable="instagram"/>
+
+    <item drawable="icon_folder"/>
+    <!---->
+
+    <category title="J"/>
+        <item drawable="jiandan_sousuo"/>
+        <item drawable="jianeng_dayin"/>
+        <item drawable="jianyi_quseqi"/>
+        <item drawable="jiaoshi_zige_kaoshi"/>
+        <item drawable="jieba_fangkuai"/>
+        <item drawable="jingdong_yuedu"/>
+        <item drawable="jinian_beigu_2"/>
+        <item drawable="jinri_toutiao"/>
+        <item drawable="jinri_toutiao_jisuban"/>
+        <item drawable="jukan_yingshi"/>
+    <item drawable="jiangduoduo_caipiao"/>
+
+
+    <category title="K"/>
+        <item drawable="kaoyanbang"/>
+        <item drawable="kendeji_youhuiquan"/>
+        <item drawable="kindle_yuedu"/>
+        <item drawable="kongtiao_gou"/>
+        <item drawable="koubei"/>
+        <item drawable="koudai_jizhang"/>
+        <item drawable="kuake_liulanqi"/>
+        <item drawable="kuan"/>
+        <item drawable="kujiale_zhuangxiu"/>
+        <item drawable="kuji_cam"/>
+    <item drawable="kuwo_tingshu"/>
+
+    <category title="L"/>
+        <item drawable="laifeng_zhibo"/>
+        <item drawable="languang_vr_dashi"/>
+        <item drawable="lanota"/>
+        <item drawable="lanxin"/>
+        <item drawable="leica_camera_leicaq"/>
+        <item drawable="lexin_yundong"/>
+        <item drawable="lexiu_shipin_bianjiqi"/>
+        <item drawable="le_xiangji"/>
+        <item drawable="le_xiangji_plus"/>
+        <item drawable="lianke_koudai"/>
+        <item drawable="liebao_liulanqi"/>
+        <item drawable="liebao_qingli_dashi"/>
+        <item drawable="limbo"/>
+        <item drawable="line_camera"/>
+        <item drawable="lumines_migong_yinyue"/>
+        <item drawable="lvxing_qingwa"/>
+    <item drawable="lanya"/>
+    <item drawable="loft_cam"/>
+    <item drawable="linli_bang"/>
+    <item drawable="liulian"/>
+    <item drawable="luckin_coffee"/>
+    <item drawable="luowang"/>
+
+
+    <category title="M"/>
+        <item drawable="maizuo_dianying"/>
+        <item drawable="mama_bang"/>
+        <item drawable="manhua_miao"/>
+        <item drawable="maoer_fm"/>
+        <item drawable="maoyan"/>
+        <item drawable="match_land"/>
+        <item drawable="material_flashlight"/>
+        <item drawable="meipai"/>
+        <item drawable="meiri_biting_yingyu"/>
+        <item drawable="meishi_jie"/>
+        <item drawable="meituan_waimai"/>
+        <item drawable="meituan_zhongbao"/>
+        <item drawable="meitu_xiuxiu"/>
+        <item drawable="meiyan_xiangji"/>
+        <item drawable="mei_baoming"/>
+        <item drawable="metro_daduhui"/>
+    <item drawable="mini_patcher"/>
+    <item drawable="miyin"/>
+
+
+    <!--<item drawable="miui_anquan_zhongxin"/>-->
+        <!--<item drawable="miui_bohao"/>-->
+        <!--<item drawable="miui_duanxin"/>-->
+        <!--<item drawable="miui_gexing_zhuti"/>-->
+        <!--<item drawable="miui_jisuanqi"/>-->
+        <!--<item drawable="miui_lianxiren"/>-->
+        <!--<item drawable="miui_liulanqi"/>-->
+        <!--<item drawable="miui_midrop"/>-->
+        <!--<item drawable="miui_mijia"/>-->
+        <!--<item drawable="miui_shizhong"/>-->
+        <!--<item drawable="miui_tianqi"/>-->
+        <!--<item drawable="miui_vipaccount"/>-->
+        <!--<item drawable="miui_wanneng_yaokong"/>-->
+        <!--<item drawable="miui_wenjian_guanli"/>-->
+        <!--<item drawable="miui_wifi"/>-->
+        <!--<item drawable="miui_xiangce"/>-->
+        <!--<item drawable="miui_xiangji"/>-->
+        <!--<item drawable="miui_xiaoai"/>-->
+        <!--<item drawable="miui_xiaoai_yinxiang"/>-->
+        <!--<item drawable="miui_quanqiu_manyou"/>-->
+        <!--<item drawable="miui_yidong"/>-->
+        <!--<item drawable="miui_yingyong_shangdian"/>-->
+        <!--<item drawable="miui_yinyue"/>-->
+        <!--<item drawable="miui_youpin"/>-->
+        <!--<item drawable="miui_youxi_zhongxin"/>-->
+        <!--<item drawable="miui_zhuti_shangdian"/>-->
+        <item drawable="mixt"/>
+        <item drawable="mobai_danche"/>
+        <item drawable="muoman_xiangji"/>
+        <item drawable="momo_beidanci"/>
+        <item drawable="momi_tuse"/>
+        <item drawable="movie_guide"/>
+        <item drawable="mt_guanliqi"/>
+        <item drawable="music_center"/>
+        <item drawable="musixmatch"/>
+        <item drawable="muzhiwan"/>
+        <item drawable="muzhiwan_google_installer"/>
+        <item drawable="my_android_tools"/>
+        <item drawable="my_android_tools_pro"/>
+        <item drawable="my_book"/>
+
+    <item drawable="magisk_manager"/>
+    <item drawable="microsoft_office_lens"/>
+    <item drawable="mingri_zhihou"/>
+
+
+
+    <item drawable="mtime_shiguangwang"/>
+
+    <item drawable="menghuan_xiyou"/>
+    <item drawable="mx_player"/>
+
+
+
+    <category title="N"/>
+        <item drawable="nomo"/>
+        <item drawable="notification_usb"/>
+        <item drawable="nova_launcher"/>
+
+
+    <category title="O"/>
+        <item drawable="ofo_gongxiang_danche"/>
+        <item drawable="og_youtube"/>
+        <item drawable="onelus_luntan"/>
+        <item drawable="oneplus_camera"/>
+        <item drawable="oupeng_liulanqi"/>
+        <item drawable="outlook_youxiang"/>
+    <item drawable="one_iconpack"/>
+
+
+    <category title="P"/>
+        <item drawable="pause"/>
+        <item drawable="pedometer"/>
+        <item drawable="pengtao"/>
+        <item drawable="picacg"/>
+        <item drawable="pinduoduo"/>
+        <item drawable="pipixia"/>
+        <item drawable="pixiv"/>
+        <item drawable="play_shangdian"/>
+        <item drawable="pola_xiutu"/>
+        <item drawable="pornhub"/>
+        <item drawable="poweramp"/>
+        <item drawable="prisma"/>
+        <item drawable="proshot"/>
+        <item drawable="protect_eye"/>
+        <item drawable="pufa_xinyongka"/>
+        <item drawable="puretie"/>
+        <item drawable="pure_tianqi"/>
+
+
+    <category title="Q"/>
+        <item drawable="qianniu"/>
+        <item drawable="qie_fm"/>
+        <item drawable="qie_zhibo"/>
+        <item drawable="qingqingli"/>
+        <item drawable="qingsong_huyan"/>
+        <item drawable="qingting"/>
+        <item drawable="qiyu_liulanqi"/>
+        <item drawable="qq"/>
+        <item drawable="qq_liulanqi"/>
+        <item drawable="qq_shurufa"/>
+        <item drawable="qq_tongbu_zhushou"/>
+        <item drawable="qq_yinyue"/>
+        <item drawable="quanmin_zhibo"/>
+        <item drawable="quanmin_caipiao"/>
+
+    <item drawable="qiji_nuannuan"/>
+    <item drawable="qq_feiche"/>
+    <item drawable="qq_xuanwu"/>
+
+
+
+
+    <category title="R"/>
+        <item drawable="redmi_note_2_tools"/>
+        <item drawable="renren_cidian"/>
+        <item drawable="retrica"/>
+        <item drawable="rixcloud"/>
+
+
+
+    <category title="S"/>
+        <item drawable="same"/>
+        <item drawable="samsung_smart_camera"/>
+        <item drawable="sanliuling_file_explorer"/>
+        <item drawable="sanliuling_qingli_dashi"/>
+        <item drawable="sanliuling_yingshi_daquan"/>
+        <item drawable="scene"/>
+        <item drawable="screener"/>
+        <item drawable="sd_maid"/>
+        <item drawable="sec_camera"/>
+        <!--<item drawable="senra.rixcloud"/>-->
+        <item drawable="shangfan"/>
+        <item drawable="shenfen_yanzhengqi"/>
+        <item drawable="shenqi_liulanqi"/>
+        <item drawable="sheying_tuku"/>
+        <item drawable="shift_nihua_wocai"/>
+        <item drawable="shige"/>
+        <item drawable="shoudong_xiangji"/>
+        <item drawable="shouxin_shurufa"/>
+        <item drawable="sleepo"/>
+        <item drawable="snkrs"/>
+        <item drawable="soundrecorder"/>
+        <item drawable="soushu_dashi"/>
+        <item drawable="spotify"/>
+        <item drawable="ssr"/>
+        <item drawable="stage_1"/>
+        <item drawable="suibiji"/>
+        <item drawable="suning_yigou"/>
+        <item drawable="super_su"/>
+
+        <item drawable="shikuang_zuqiu"/>
+
+        <item drawable="san_c_toolbox_pro"/>
+        <item drawable="send_anywhere"/>
+        <item drawable="shenqi_cili"/>
+
+
+    <category title="T"/>
+        <item drawable="taguage"/>
+        <item drawable="tanqinba_jita_gangqinpu"/>
+        <item drawable="tantan"/>
+        <item drawable="taobao"/>
+        <item drawable="taobao_quanqiu"/>
+        <item drawable="taobao_shouji_zhushou"/>
+        <item drawable="taopiaopiao"/>
+        <item drawable="tao_xiaoshuo"/>
+        <item drawable="taptap"/>
+        <item drawable="taqu"/>
+        <item drawable="ted"/>
+        <item drawable="telegram"/>
+        <item drawable="tengxun_ditu"/>
+        <item drawable="tengxun_fanyijun"/>
+        <item drawable="tengxun_huanle_majiang"/>
+        <item drawable="tengxun_shipin"/>
+        <item drawable="tengxun_shouji_guanjia"/>
+        <item drawable="tengxun_tiyu"/>
+        <item drawable="tengxun_wifi_guanjia"/>
+        <item drawable="tengxun_youxi"/>
+        <item drawable="tengxun_zixuan_gu"/>
+        <item drawable="terrarium_yingshi"/>
+        <item drawable="threes"/>
+        <item drawable="tiantiankan"/>
+        <item drawable="tiantian_feiche"/>
+        <item drawable="tiantian_xiangqi"/>
+        <item drawable="tiantian_xuandou"/>
+        <item drawable="tianxing_vpn"/>
+        <item drawable="tim"/>
+        <item drawable="todoist"/>
+        <item drawable="touming_touxiang_shengchengqi"/>
+        <item drawable="tuniu_lvyou"/>
+        <item drawable="tuya_wangguo"/>
+
+        <item drawable="tengxun_ketang"/>
+
+        <item drawable="tengxun_dongman"/>
+        <item drawable="tengxun_weiyun"/>
+
+    <item drawable="tianya_shequ"/>
+    <item drawable="tieba_bazhuban"/>
+    <item drawable="tieba_zhushouban"/>
+    <item drawable="tieyou_huochepiao"/>
+    <item drawable="twitter"/>
+
+
+    <category title="U"/>
+        <item drawable="uc_toutiao"/>
+        <item drawable="ukiyo_wave"/>
+
+
+    <category title="V"/>
+        <item drawable="village"/>
+        <item drawable="viper4_android_fx"/>
+        <item drawable="vplayer"/>
+        <item drawable="vsco"/>
+        <item drawable="vsco_2"/>
+
+
+    <category title="W"/>
+        <item drawable="wakelock_detector"/>
+        <item drawable="wandoujia"/>
+        <item drawable="wangmiao"/>
+        <item drawable="wangyi_yunyinyue"/>
+        <item drawable="wangyi_yunyuedu"/>
+        <item drawable="wanke_yun"/>
+        <item drawable="wanmei_xiaoyuan"/>
+        <item drawable="wanneng_xiangji"/>
+        <item drawable="waqu_shipin"/>
+        <item drawable="weibo"/>
+        <item drawable="weibo_emore"/>
+        <item drawable="weibo_guojiban"/>
+        <item drawable="weibo_see"/>
+        <item drawable="weico"/>
+        <item drawable="weico_note"/>
+        <item drawable="weidian"/>
+        <item drawable="weiku_meishi_shipin"/>
+        <item drawable="weipinhui"/>
+        <item drawable="weishang_jietuwang"/>
+        <item drawable="weishi"/>
+        <item drawable="weixin"/>
+        <item drawable="weixin_2"/>
+        <item drawable="weixin_dianhuaben"/>
+        <item drawable="weizhong_yinhang"/>
+        <item drawable="wei_henji"/>
+        <item drawable="wenjuanxing"/>
+        <item drawable="whatsapp"/>
+        <item drawable="wifi_lianjie_guanliqi"/>
+        <item drawable="wifi_mima"/>
+        <item drawable="wo_yuedu"/>
+        <item drawable="wubai_px"/>
+        <item drawable="wukong_yaokongqi"/>
+
+        <item drawable="wangyi_gongkaike"/>
+        <item drawable="wangyi_huochepiao"/>
+        <item drawable="wangyi_manhua"/>
+        <item drawable="wangyi_woniu_dushu"/>
+        <item drawable="wangyi_yanxuan"/>
+        <item drawable="wangyi_youxiang_dashi"/>
+
+        <item drawable="weibo_share"/>
+
+    <item drawable="wangzhe_rongyao"/>
+    <item drawable="weiqi_baodian"/>
+
+
+
+        <item drawable="wally"/>
+
+
+
+
+    <category title="X"/>
+        <item drawable="xiachufang"/>
+        <item drawable="xianchang_jijiu_zhinan"/>
+        <item drawable="xiangshang_jianrong"/>
+        <item drawable="xianyu"/>
+        <item drawable="xianyu_2"/>
+        <item drawable="xiaodoumiao_yimiao_zhushou"/>
+        <item drawable="xiaohongshu"/>
+        <item drawable="xiaohuangtiao_bianqian"/>
+        <item drawable="xiaoji_moniqi"/>
+        <item drawable="xiaolong_xiangji"/>
+        <item drawable="xiaoq_huabi"/>
+        <item drawable="xiaoshuimian"/>
+        <item drawable="xiaoyi_xingche_jiluyi"/>
+        <item drawable="xiao_tiancai"/>
+        <item drawable="ximalaya"/>
+        <item drawable="xingbake"/>
+        <item drawable="xingchen_liulanqi"/>
+        <item drawable="xingyun_pojieqi"/>
+        <item drawable="xinhua_she"/>
+        <item drawable="xiongmao_zhibo"/>
+        <item drawable="xunfei_yuedu"/>
+        <item drawable="x_liulanqi"/>
+
+
+        <item drawable="xiami_yinyue"/>
+
+
+
+    <category title="Y"/>
+        <item drawable="yamaxun_gouwu_hd"/>
+        <item drawable="yamaxun_kindle"/>
+        <item drawable="yanzhi_shipin"/>
+        <item drawable="yidong_gps"/>
+        <item drawable="yingke_zhibo"/>
+        <item drawable="yingshi_yun_shipin"/>
+        <item drawable="yingyonghui"/>
+        <item drawable="yinyangshi"/>
+        <item drawable="yinyuetai"/>
+        <item drawable="yinyue_biaoqian_bianjiqi"/>
+        <item drawable="yiqi_caipiao"/>
+        <item drawable="yiqi_kao_jiaoshi"/>
+        <item drawable="yishan"/>
+        <item drawable="yitao"/>
+        <item drawable="yixing_shaoxing"/>
+        <item drawable="yi_tingche"/>
+        <item drawable="yonganxin"/>
+        <item drawable="youbai_danche"/>
+        <item drawable="youdao_yuwen"/>
+        <item drawable="youdu_gushi"/>
+        <item drawable="youju_youxi_pingtai"/>
+        <item drawable="youtube"/>
+        <item drawable="youtube_2"/>
+        <item drawable="youxiting_wuyu"/>
+        <item drawable="youzi_xiangji"/>
+        <item drawable="yunbao"/>
+        <item drawable="yunos_lifecard"/>
+        <item drawable="yunshanfu"/>
+
+    <item drawable="you_pinwei"/>
+
+    <item drawable="yaoguo_gongkao"/>
+    <item drawable="yi_zhibo"/>
+    <item drawable="you_baobao"/>
+    <item drawable="yueyuan_zhiye"/>
+
+
+
+    <category title="Z"/>
+        <item drawable="zaker"/>
+        <item drawable="zhaike_yundong"/>
+        <item drawable="zhangshang_chuanyue_huoxian"/>
+        <item drawable="zhangshang_tgp"/>
+        <item drawable="zhangyue_tingshu"/>
+        <item drawable="zhaolian_haoqidai"/>
+        <item drawable="zhejiang_nongxin"/>
+        <item drawable="zhe_800"/>
+        <item drawable="zhibo_ba"/>
+        <item drawable="zhifubao"/>
+        <item drawable="zhineng_jiating"/>
+        <item drawable="zhiwu_dazhan_jiangshi"/>
+        <item drawable="zhongguo_yidong_sichuan"/>
+        <item drawable="zhongguo_ditie_tong"/>
+        <item drawable="zhongguo_yidong_gansu"/>
+        <item drawable="zhongguo_yidong_qijiandian"/>
+        <item drawable="zhongguo_yidong_shandong"/>
+        <item drawable="zhong_huasuan"/>
+        <item drawable="zhuizhui_manhua"/>
+        <item drawable="zuizui_riyu"/>
+
+        <item drawable="zhihu"/>
+        <item drawable="zhihu_ribao"/>
+        <item drawable="zhongguo_daxue_mooc"/>
+
+    <item drawable="zhangshang_dianli"/>
+    <item drawable="zhongguo_yidong_chongqing"/>
+    <item drawable="zhongjiezhe"/>
+    <item drawable="zlive"/>
+
+
+<!--fghfkejhfiwehfoiwegVBHBVUEBVHURHEJIWEI0ID0IQ0WIDidjvjoweokfowekfqwfdjndvnvnvnfjvnfvnvnfjvnfjnvbhbvhdbcschiwichwU股份不去瓜娃edhuwfaudufmhdhscjknsekberlkhiogage-->
+
+
+    <category title="魅族"/>
+    <item drawable="flyme_anquan_zhongxin"/>
+    <item drawable="flyme_beautify"/>
+    <item drawable="flyme_bianqian"/>
+    <item drawable="flyme_kuaichuan"/>
+    <item drawable="flyme_dayu"/>
+    <item drawable="flyme_dianhua"/>
+    <item drawable="flyme_ditu"/>
+    <item drawable="flyme_duanxin"/>
+    <item drawable="flyme_dushu"/>
+    <item drawable="flyme_gengxin"/>
+    <item drawable="flyme_gexing_zhuti"/>
+    <item drawable="flyme_gexing_zhuti_2"/>
+    <item drawable="flyme_huaban"/>
+    <item drawable="flyme_jisuanqi"/>
+    <item drawable="flyme_log_report"/>
+    <item drawable="flyme_luyinji"/>
+    <item drawable="flyme_shangcheng"/>
+    <item drawable="flyme_meepo"/>
+    <item drawable="flyme_meiliao"/>
+    <item drawable="flyme_net_contact_service"/>
+    <item drawable="flyme_remote_control_phone"/>
+    <item drawable="flyme_scanner"/>
+    <item drawable="flyme_shangdian"/>
+    <item drawable="flyme_shequ"/>
+    <item drawable="flyme_shezhi"/>
+    <item drawable="flyme_shizhong"/>
+    <item drawable="flyme_shouhuan"/>
+    <item drawable="flyme_tianqi"/>
+    <item drawable="flyme_toolbox"/>
+    <item drawable="flyme_tv_assistant"/>
+    <item drawable="flyme_qianbao"/>
+    <item drawable="flyme_wenjian_guanli"/>
+    <item drawable="flyme_wenjian_guanli_2"/>
+    <item drawable="flyme_xiangce"/>
+    <item drawable="flyme_xiangji"/>
+    <item drawable="flyme_xiazai"/>
+    <item drawable="flyme_xinwen"/>
+    <item drawable="flyme_xitong_zhuomian"/>
+    <item drawable="flyme_yingyong_shangdian"/>
+    <item drawable="flyme_yinyue"/>
+    <item drawable="flyme_yonghu_fankui"/>
+    <item drawable="flyme_youxi_zhongxin"/>
+    <item drawable="flyme_youxiang"/>
+    <item drawable="flyme_yuyin_zhushou"/>
+    <item drawable="flyme_yuyin_zhushou_2"/>
+    <item drawable="flyme_zhanghao"/>
+    <item drawable="flyme_zhaohui_shouji"/>
+    <item drawable="flyme_zhifu"/>
+    <item drawable="flyme_rili"/>
+
+
+
+    <category title="小米"/>
+    <item drawable="miui_anquan_zhongxin"/>
+    <item drawable="miui_bianqian"/>
+    <item drawable="miui_dianhua"/>
+    <item drawable="miui_duanxin"/>
+    <item drawable="miui_gexing_zhuti"/>
+    <item drawable="miui_gexing_zhuti_2"/>
+    <item drawable="miui_gexing_zhuti_3"/>
+    <item drawable="miui_jisuanqi"/>
+    <item drawable="miui_lianxiren"/>
+    <item drawable="miui_liulanqi"/>
+    <item drawable="miui_luntan"/>
+    <item drawable="miui_luyinji"/>
+    <item drawable="miui_midrop"/>
+    <item drawable="miui_mijia"/>
+    <item drawable="miui_poco_zhuomian"/>
+    <item drawable="miui_qianbao"/>
+    <item drawable="miui_quanqiu_manyou"/>
+    <item drawable="miui_saoyisao"/>
+    <item drawable="miui_shezhi"/>
+    <item drawable="miui_shipin"/>
+    <item drawable="miui_shizhong"/>
+    <item drawable="miui_sim_tool_kits"/>
+    <item drawable="miui_tianqi"/>
+    <item drawable="miui_wanneng_yaokong"/>
+    <item drawable="miui_wenjian_guanli"/>
+    <item drawable="miui_wenjian_guanli_2"/>
+    <item drawable="miui_wifi"/>
+    <item drawable="miui_wode_xiaomi"/>
+    <item drawable="miui_xiangce"/>
+    <item drawable="miui_xiangji"/>
+    <item drawable="miui_xiaoai"/>
+    <item drawable="miui_xiaoai_yinxiang"/>
+    <item drawable="miui_xiazai"/>
+    <item drawable="miui_yidong"/>
+    <item drawable="miui_yingyong_shangdian"/>
+    <item drawable="miui_yinyue"/>
+    <item drawable="miui_yonghu_fankui"/>
+    <item drawable="miui_youpin"/>
+    <item drawable="miui_youxi_zhongxin"/>
+    <item drawable="miui_youxiang"/>
+    <item drawable="miui_yuedu"/>
+    <item drawable="miui_rili"/>
+
+
+
+    <category title="华为"/>
+
+    <item drawable="emui_bianqian"/>
+    <item drawable="emui_dianhua"/>
+    <item drawable="emui_duanxin"/>
+    <item drawable="emui_gengxin"/>
+    <item drawable="emui_gexing_zhuti"/>
+    <item drawable="emui_gexing_zhuti_2"/>
+    <item drawable="emui_kuaichuan"/>
+    <item drawable="emui_liulanqi"/>
+    <item drawable="emui_luntan"/>
+    <item drawable="emui_qianbao"/>
+    <item drawable="emui_shezhi"/>
+    <item drawable="emui_shipin"/>
+    <item drawable="emui_shizhong"/>
+    <item drawable="emui_sim_tool_kits"/>
+    <item drawable="emui_tianqi"/>
+    <item drawable="emui_wenjian_guanli"/>
+    <item drawable="emui_wenjian_guanli_2"/>
+    <item drawable="emui_xiangce"/>
+    <item drawable="emui_xiangji"/>
+    <item drawable="emui_yingyong_shangdian"/>
+    <item drawable="emui_yinyue"/>
+    <item drawable="emui_youxi_zhongxin"/>
+    <item drawable="emui_yuyin_zhushou"/>
+    <item drawable="emui_yuyin_zhushou_2"/>
+    <item drawable="emui_zhaohui_shouji"/>
+    <item drawable="emui_rili"/>
+
+
+
+
+
+    <category title="OPPO"/>
+    <item drawable="oppo_anquan_zhongxin"/>
+    <item drawable="oppo_bianqian"/>
+    <item drawable="oppo_dianhua"/>
+    <item drawable="oppo_duanxin"/>
+    <item drawable="oppo_dushu"/>
+    <item drawable="oppo_gexing_zhuti"/>
+    <item drawable="oppo_jisuanqi"/>
+    <item drawable="oppo_kuaichuan"/>
+    <item drawable="oppo_luyinji"/>
+    <item drawable="oppo_quanqiu_manyou"/>
+    <item drawable="oppo_shequ"/>
+    <item drawable="oppo_shezhi"/>
+    <item drawable="oppo_shipin"/>
+    <item drawable="oppo_shizhong"/>
+    <item drawable="oppo_tianqi"/>
+    <item drawable="oppo_wenjian_guanli"/>
+    <item drawable="oppo_xiangce"/>
+    <item drawable="oppo_xiangji"/>
+    <item drawable="oppo_yingyong_shangdian"/>
+    <item drawable="oppo_yinyue"/>
+    <item drawable="oppo_youxi_zhongxin"/>
+    <item drawable="oppo_yuyin_zhushou"/>
+    <item drawable="oppo_lianxiren"/>
+    <item drawable="oppo_zhaohui_shouji"/>
+    <item drawable="oppo_rili"/>
+
+
+
+    <category title="VIVO"/>
+
+    <item drawable="vivo_anquan_zhongxin"/>
+    <item drawable="vivo_bianqian"/>
+    <item drawable="vivo_dianhua"/>
+    <item drawable="vivo_duanxin"/>
+    <item drawable="vivo_gexing_zhuti"/>
+    <item drawable="vivo_jisuanqi"/>
+    <item drawable="vivo_lianxiren"/>
+    <item drawable="vivo_liulanqi"/>
+    <item drawable="vivo_luntan"/>
+    <item drawable="vivo_luyinji"/>
+    <item drawable="vivo_shezhi"/>
+    <item drawable="vivo_shipin"/>
+    <item drawable="vivo_shizhong"/>
+    <item drawable="vivo_tianqi"/>
+    <item drawable="vivo_wenjian_guanli"/>
+    <item drawable="vivo_xiangce"/>
+    <item drawable="vivo_xiangji"/>
+    <item drawable="vivo_yingyong_shangdian"/>
+    <item drawable="vivo_yinyue"/>
+    <item drawable="vivo_youxi_zhongxin"/>
+    <item drawable="vivo_youxiang"/>
+    <item drawable="vivo_yuyin_zhishou"/>
+    <item drawable="vivo_rili"/>
+
+
+    <category title="一加"/>
+    <item drawable="oneplus_bianqian"/>
+    <item drawable="oneplus_dianhua"/>
+    <item drawable="oneplus_duanxin"/>
+    <item drawable="oneplus_jisuanqi"/>
+    <item drawable="oneplus_kuaichuan"/>
+    <item drawable="oneplus_lianxiren"/>
+    <item drawable="oneplus_liulanqi"/>
+    <item drawable="oneplus_luyinji"/>
+    <item drawable="oneplus_shezhi"/>
+    <item drawable="oneplus_shizhong"/>
+    <item drawable="oneplus_sim_tool_kits"/>
+    <item drawable="oneplus_wenjian_guanliqi"/>
+    <item drawable="oneplus_xiangce"/>
+    <item drawable="oneplus_xiangji"/>
+    <item drawable="oneplus_tianqi"/>
+    <item drawable="oneplus_rili"/>
+
+
+
+    <category title="锤子"/>
+    <item drawable="smartisanos_anquan_zhongxin"/>
+    <item drawable="smartisanos_bianqian"/>
+    <item drawable="smartisanos_dianhua"/>
+    <item drawable="smartisanos_dushu"/>
+    <item drawable="smartisanos_jisuanqi"/>
+    <item drawable="smartisanos_lianxiren"/>
+    <item drawable="smartisanos_liulanqi"/>
+    <item drawable="smartisanos_luntan"/>
+    <item drawable="smartisanos_luyinji"/>
+    <item drawable="smartisanos_shezhi"/>
+    <item drawable="smartisanos_shizhong"/>
+    <item drawable="smartisanos_tianqi"/>
+    <item drawable="smartisanos_wenjian_guanliqi"/>
+    <item drawable="smartisanos_xiangce"/>
+    <item drawable="smartisanos_xiangji"/>
+    <item drawable="smartisanos_yingyong_shangdian"/>
+    <item drawable="smartisanos_yinyue"/>
+    <item drawable="smartisanos_youxi_zhongxin"/>
+    <item drawable="smartisanos_duanxin"/>
+    <item drawable="smartisanos_rili"/>
+
+
+
+
+    <category title="三星"/>
+    <item drawable="samsung_bianqian"/>
+    <item drawable="samsung_dianhua"/>
+    <item drawable="samsung_duanxin"/>
+    <item drawable="samsung_gexing_zhuti"/>
+    <item drawable="samsung_jisuanqi"/>
+    <item drawable="samsung_lianxiren"/>
+    <item drawable="samsung_liulanqi"/>
+    <item drawable="samsung_luyinji"/>
+    <item drawable="samsung_qianbao"/>
+    <item drawable="samsung_quanqiu_manyou"/>
+    <item drawable="samsung_shequ"/>
+    <item drawable="samsung_shezhi"/>
+    <item drawable="samsung_shipin"/>
+    <item drawable="samsung_shizhong"/>
+    <item drawable="samsung_wenjian_guanliqi"/>
+    <item drawable="samsung_xiangce"/>
+    <item drawable="samsung_xiangji"/>
+    <item drawable="samsung_yingyong_shangdian"/>
+    <item drawable="samsung_yinyue"/>
+    <item drawable="samsung_youxi_zhongxin"/>
+    <item drawable="samsung_youxiang"/>
+    <item drawable="samsung_yuyin_zhushou"/>
+    <item drawable="samsung_rili"/>
+
+    <category title="索尼"/>
+    <item drawable="sony_bianqian"/>
+    <item drawable="sony_dianhua"/>
+    <item drawable="sony_duanxin"/>
+    <item drawable="sony_kuaichuan"/>
+    <item drawable="sony_lianxiren"/>
+    <item drawable="sony_luyinji"/>
+    <item drawable="sony_shipin_zhizuo"/>
+    <item drawable="sony_shizhong"/>
+    <item drawable="sony_sim_tool_kits"/>
+    <item drawable="sony_tianqi"/>
+    <item drawable="sony_wenjian_guanli"/>
+    <item drawable="sony_xiangce"/>
+    <item drawable="sony_xiangji"/>
+    <item drawable="sony_yinyue"/>
+    <item drawable="sony_youxiang"/>
+    <item drawable="sony_rili"/>
+
+
+
+
+    <category title="原生"/>
+    <item drawable="dianhua"/>
+    <item drawable="duanxin"/>
+    <item drawable="rili"/>
+
+
+    <item drawable="anquan_zhongxin"/>
+    <item drawable="beifen"/>
+    <item drawable="bianqian"/>
+    <item drawable="ditu"/>
+    <item drawable="dk_simple"/>
+    <item drawable="dushu"/>
+    <item drawable="gengxin"/>
+    <item drawable="gexing_zhuti"/>
+    <item drawable="gexing_zhuti_2"/>
+    <item drawable="gexing_zhuti_3"/>
+    <item drawable="huahua"/>
+    <item drawable="jisuanqi"/>
+    <item drawable="kuaichuan"/>
+    <item drawable="lianxiren"/>
+    <item drawable="liulanqi"/>
+    <item drawable="log_report"/>
+    <item drawable="luntan"/>
+    <item drawable="luyinji"/>
+    <item drawable="protips"/>
+    <item drawable="qianbao"/>
+    <item drawable="quanqiu_manyou"/>
+    <item drawable="scanner"/>
+    <item drawable="shangcheng"/>
+    <item drawable="shezhi"/>
+    <item drawable="shipin"/>
+    <item drawable="shizhong"/>
+    <item drawable="shoudiantong"/>
+    <item drawable="shouji"/>
+    <item drawable="shuju_qianyi"/>
+    <item drawable="sim_tool_kits"/>
+    <item drawable="system_plus"/>
+    <item drawable="tianqi"/>
+    <item drawable="tianqi_2"/>
+    <item drawable="toolbox"/>
+    <item drawable="wenjian_guanli"/>
+    <item drawable="wenjian_guanli_2"/>
+    <item drawable="wifi"/>
+    <item drawable="xiangce"/>
+    <item drawable="xiangji"/>
+    <item drawable="xiazai"/>
+    <item drawable="xinwen"/>
+    <item drawable="xitong_zhuomian"/>
+    <item drawable="yingyong_shangdian"/>
+    <item drawable="yinyue"/>
+    <item drawable="yonghu_fankui"/>
+    <item drawable="youxi_zhongxin"/>
+    <item drawable="youxiang"/>
+    <item drawable="yuedu"/>
+    <item drawable="yuyin_zhushou"/>
+    <item drawable="yuyin_zhushou_2"/>
+    <item drawable="zhaohui_shouji"/>
+
+
+
+
+
+</resources>

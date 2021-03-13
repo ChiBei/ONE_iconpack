@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">2019/06/21</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline -->
+    <string-array name="changelog">
+
+        <item>更新了很多很多图标！</item>
+        <!--<item><![CDATA[-->
+        <!--This is an example changelog with html formatting-->
+        <!--<b>Bold</b>, <i>Italic</i>, and <u>Underline</u>-->
+        <!--]]></item>-->
+        <!--<item></item>-->
+        <item>有任何问题去酷安应用评论区或者微博@deoR反馈哦~</item>
+        <!--<item></item>-->
+
+        <!--<item><![CDATA[-->
+        <!--<b>Another</b> one-->
+        <!--]]></item>-->
+    </string-array>
+
+</resources>

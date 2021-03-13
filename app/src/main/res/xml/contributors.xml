@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <contributor
+        name="迟北"
+        contribution="业余选手"
+        image="chibei"
+        link="https://www.coolapk.com/u/946130" />
+    <!--<contributor-->
+        <!--name="Name 2"-->
+        <!--contribution="Contribution 1, contribution 2, contribution 3"-->
+        <!--image=""-->
+        <!--link="" />-->
+    <!--<contributor-->
+        <!--name="Another Name"-->
+        <!--contribution="Contribution 1"-->
+        <!--image=""-->
+        <!--link="http://plus.google.com/..." />-->
+    <!--<contributor-->
+        <!--name="Another Name 2"-->
+        <!--contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"-->
+        <!--image=""-->
+        <!--link="http://www.link.com" />-->
+
+</resources>
